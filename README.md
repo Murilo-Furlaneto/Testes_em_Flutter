@@ -1,16 +1,5 @@
-# teste_widget
+Projeto criado com exemplos de como trabalhar com testes em Flutter.
 
-A new Flutter project.
+Nesse projeto estão testes unitários, testes de Widgets e testes de integração.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O projeto foi criado a fins de estudo.
